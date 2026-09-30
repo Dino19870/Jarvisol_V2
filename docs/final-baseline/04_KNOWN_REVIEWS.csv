@@ -1,0 +1,4 @@
+﻿"Incident";"Status";"Description";"Impact";"Decision"
+"P85-MOVE-001";"KNOWN_NON_FUNCTIONAL";"Windows refuse rename/move du dossier STAGING avec Access Denied.";"Organisation du chemin uniquement.";"Version gelee en place."
+"P84-DEFERRED-001";"KNOWN_NON_BLOCKING";"Un web_audio_* peut subsister apres certaines annulations yt-dlp.";"Accumulation disque possible.";"Correction apres gel."
+"MPV-REVIEW";"KNOWN_NON_BLOCKING";"Messages MPV osc/cache sans defaut visible.";"Aucun defaut utilisateur demontre.";"MPV inchange avant gel."

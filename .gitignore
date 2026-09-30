@@ -1,0 +1,98 @@
+# ============================================
+# JARVISOL V2 — SOURCE REPOSITORY
+# ============================================
+
+# Flutter / Dart generated
+.dart_tool/
+.packages
+.pub/
+build/
+coverage/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE
+.idea/
+.vscode/
+.vs/
+*.user
+*.suo
+
+# Windows generated
+windows/flutter/ephemeral/
+
+# Native build outputs
+**/build/
+**/out/
+**/bin/
+**/obj/
+**/.cache/
+
+# Compiled binaries
+*.exe
+*.dll
+*.pdb
+*.lib
+*.obj
+*.so
+*.dylib
+
+# Large AI models
+models/
+**/models/
+*.gguf
+*.ggml
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.onnx
+
+# Portable runtimes / generated AI runtime
+runtime/
+VoiceBake/
+sd_vulkan/
+
+# Runtime / user data
+data/
+rag_cache/
+ai_knowledge/
+GeneratedImages/
+downloads/
+temp/
+cache/
+
+# Logs / archives / backups
+*.log
+*.tmp
+*.bak
+*.old
+*.zip
+*.7z
+*.rar
+
+# Python generated
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Secrets / local credentials
+.env
+.env.*
+*.key
+*.pem
+secrets.*
+credentials.*
+*.bak_*
+*.backup
+*.backup.*
+*_backup.*
+windows/flutter/generated_plugin_registrant.cc
+windows/flutter/generated_plugin_registrant.h
+windows/flutter/generated_plugins.cmake
